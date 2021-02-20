@@ -15,6 +15,7 @@ Here are the problems I ran into while trying to use Blender to make things for 
  - Using Blender efficiently with Unity3D-oriented goals.
    - Workflow
  
+## Resources
 
 - http://renderhjs.net/textools/blender/
   - A professional tool for visualizing and smoothing your UVs (how textures map to your objects).
